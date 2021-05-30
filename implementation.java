@@ -1,9 +1,9 @@
-public class implementation {
+public class Implementation {
     private Node head;
     private int size;
 
     //constructor
-    public singlylinkedlist(){
+    public Implementation(){
         head = null;
         size = 0;
     }
